@@ -2,7 +2,6 @@
 
 #### I'm a web developer currently living in Toronto. Right now I’m the lead web developer at [TunnelBear](https://www.tunnelbear.com)! 🐻 
 
-### 🔗
 ⚡ _I make stuff with JavaScript. [kravse.dev](https://www.kravse.dev)_
 
 📸 _I take street & documentary style photos. [kravse.com](https://www.kravse.com)_
