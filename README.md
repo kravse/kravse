@@ -1,6 +1,6 @@
 ## Hey, I'm Jared. 👋 
 
-#### I'm a web developer currently living in Toronto. Right now I’m the lead web developer at [TunnelBear](https://www.tunnelbear.com)! 🐻 
+#### I'm a web developer currently living in Toronto. Right now I’m a web developer at [Cohere.ai](https://cohere.ai]! 🐻 
 
 ⚡ _I make stuff with JavaScript. [kravse.dev](https://www.kravse.dev)_
 
