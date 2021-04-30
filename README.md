@@ -2,7 +2,7 @@
 
 #### I'm a web developer currently working on the [Cohere.ai](https://cohere.ai) natural language API. 🔠
 
-#### Formerly I was the web lead at [TunnelBear](https://tunnelbear.com).  🐻 
+#### Formerly I was the lead web developer at [TunnelBear](https://tunnelbear.com).  🐻 
 
 ⚡ _Check out some of the stuff I've made at [kravse.dev](https://www.kravse.dev)_
 
