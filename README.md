@@ -1,6 +1,6 @@
 ## Hey, I'm Jared. 👋 
 
-#### I'm a web developer currently working on the [Cohere.ai](https://cohere.ai) natural language API. 🔠 Before that I was the lead web developer at [TunnelBear](https://tunnelbear.com). 🐻 
+#### I'm a software developer currently working on the [Cohere.ai](https://cohere.ai) natural language API and its related products. 🔠 Before that I was the lead web developer at [TunnelBear](https://tunnelbear.com). 🐻 
 
 ⚡ _Check out some of the projects I've worked on at [kravse.dev](https://www.kravse.dev)_
 
