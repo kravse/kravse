@@ -8,4 +8,4 @@
 
 🎲 _I also play a ton of boardgames. [instagram.com/kravse](https://www.instagram.com/kravse)_
 
-🔥 _...and occasionally I yell into the void. <a rel="me" href="https://infosec.exchange/@kravse">@kravse@infosec.exchange</a>_
+🔥 _...and occasionally I yell into the void. <a rel="me" href="https://infosec.exchange/@kravse">infosec.exchange/@kravse</a>_
